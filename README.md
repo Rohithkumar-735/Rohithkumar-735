@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohith kumar Reddy Renati
 - 👀 I’m interested in Python , ML, Deep learning.
-- 🌱 I’m currently learning ML, Deep learning.
-- 💞️ I’m looking to collaborate on ML and Python
+- 🌱 Learning ML, Deep learning.
+- 💞️ Looking to collaborate on ML and Python
 - 📫 How to reach me  @ nanirohith735@gmail.com
 
 <!---
